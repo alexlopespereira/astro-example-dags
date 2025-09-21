@@ -1,1 +1,1 @@
-FROM quay.io/astronomer/ap-airflow:2.3.4
+FROM astrocrpublic.azurecr.io/runtime:3.0-11
